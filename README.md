@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nico-olmos-dmi
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning typescript and software architecture.
+- 💞️ I’m looking to collaborate on FOSS projects.
